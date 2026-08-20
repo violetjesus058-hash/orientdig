@@ -1,10 +1,10 @@
 ---
-title: 'USFans Hats Spreadsheet | Hat Finds, Caps and Style Guides'
-description: 'Explore the USFans Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused USFans hat finds by style, materials and everyday use.'
+title: 'Orientdig Hats Spreadsheet | Hat Finds, Caps and Style Guides'
+description: 'Explore the Orientdig Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused Orientdig hat finds by style, materials and everyday use.'
 category: Accessories
 tags:
-- USFans Hats Spreadsheet
-- USFans Hat Finds
+- Orientdig Hats Spreadsheet
+- Orientdig Hat Finds
 - Hats and Caps
 - Accessory Guides
 updated: '2026-08-14T00:00:00Z'
@@ -183,9 +183,9 @@ const brandOverview = [
 ]
 </script>
 
-# USFans Hats Spreadsheet
+# Orientdig Hats Spreadsheet
 
-The USFans Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant USFans hat finds.
+The Orientdig Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant Orientdig hat finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -367,11 +367,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [Usfans Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [Usfans Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [Usfans Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
-- [Usfans QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
+- [Orientdig Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
+- [Orientdig Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
+- [Orientdig Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
+- [Orientdig QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
+- [Orientdig Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 

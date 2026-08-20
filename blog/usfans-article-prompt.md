@@ -1,5 +1,5 @@
 ---
-title: Usfans Spreadsheet Article Generation Prompt
+title: Orientdig Spreadsheet Article Generation Prompt
 ---
 
 > Version: 2.0
@@ -13,7 +13,7 @@ title: Usfans Spreadsheet Article Generation Prompt
 
 ## CRITICAL: Website Positioning
 
-**Usfans Spreadsheet is a curated product directory.**
+**Orientdig Spreadsheet is a curated product directory.**
 
 The website:
 - ✅ Organizes product information into browsable categories
@@ -35,7 +35,7 @@ The website:
 ```markdown
 # [Keyword] 2026: [Compelling Subtitle]
 
-<a href="https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270" target="_blank" rel="nofollow">Access Usfans Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270" target="_blank" rel="nofollow">Access Orientdig Spreadsheet</a>
 
 **In This Article:**
 - [Key point 1]
@@ -47,7 +47,7 @@ The website:
 ## Introduction
 
 [300-400 words]
-- Paragraph 1: Introduce the topic, include keyword naturally, mention Usfans Spreadsheet
+- Paragraph 1: Introduce the topic, include keyword naturally, mention Orientdig Spreadsheet
 - Paragraph 2: Explain what this guide covers — organized product information, category breakdowns, pricing references
 - Paragraph 3: Transition to main content, mention what readers will learn
 
@@ -117,7 +117,7 @@ A: [Answer]
 **Related Guides:**
 - [Internal link 1: Related category/brand page]
 - [Internal link 2: Related feature page]
-- [Internal link 3: main page on Usfans Spreadsheet]
+- [Internal link 3: main page on Orientdig Spreadsheet]
 ```
 
 ---
@@ -246,12 +246,12 @@ Before finalizing each article, verify:
 
 ## Example Article Outline
 
-**Topic**: Usfans Spreadsheet Sneakers 2026
+**Topic**: Orientdig Spreadsheet Sneakers 2026
 
 ```markdown
-# Usfans Spreadsheet Sneakers 2026: Organized Footwear Directory
+# Orientdig Spreadsheet Sneakers 2026: Organized Footwear Directory
 
-[Access Usfans Spreadsheet](spreadsheet link)
+[Access Orientdig Spreadsheet](spreadsheet link)
 
 **In This Article:**
 - What the sneakers directory offers (organized product listings)
@@ -263,7 +263,7 @@ Before finalizing each article, verify:
 ## Introduction
 [300-400 words about the sneaker directory, include accurate product information]
 
-## Sneaker Categories on Usfans Spreadsheet
+## Sneaker Categories on Orientdig Spreadsheet
 [400-500 words with product types, price ranges, style variations]
 
 ## Product Information Available
@@ -284,9 +284,9 @@ Before finalizing each article, verify:
 ---
 
 **Related Guides:**
-- [Usfans Nike](usfans-nike.md)
-- [Usfans Jordan](usfans-jordan.md)
-- [Usfans Sizing Guide](usfans-sizing-guide.md)
+- [Orientdig Nike](orientdig-nike.md)
+- [Orientdig Jordan](orientdig-jordan.md)
+- [Orientdig Sizing Guide](orientdig-sizing-guide.md)
 ```
 
 ---

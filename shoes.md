@@ -1,10 +1,10 @@
 ---
-title: 'USFans Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
-description: 'Explore the USFans Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused USFans sneaker finds by use case.'
+title: 'Orientdig Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
+description: 'Explore the Orientdig Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused Orientdig sneaker finds by use case.'
 category: Footwear
 tags:
-- USFans Shoes Spreadsheet
-- USFans Sneaker Finds
+- Orientdig Shoes Spreadsheet
+- Orientdig Sneaker Finds
 - Footwear Guides
 - Shoe Discovery
 updated: '2026-08-14T00:00:00Z'
@@ -140,9 +140,9 @@ const sizingTips = [
 ]
 </script>
 
-# USFans Shoes Spreadsheet
+# Orientdig Shoes Spreadsheet
 
-The USFans Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare USFans sneaker finds using the fit, material and use-case guidance on that page.
+The Orientdig Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare Orientdig sneaker finds using the fit, material and use-case guidance on that page.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -248,14 +248,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [Usfans Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Usfans Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [Usfans Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
+- [Orientdig Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [Orientdig Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
+- [Orientdig Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [Usfans QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [Usfans Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
+- [Orientdig QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
+- [Orientdig Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
+- [Orientdig Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 

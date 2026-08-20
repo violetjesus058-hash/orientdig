@@ -1,15 +1,15 @@
 ---
 layout: home
-title: 'USFans Spreadsheet 2026 | USFans Finds and Category Guides'
-description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
-category: USFans Spreadsheet
+title: 'Orientdig Spreadsheet 2026 | Orientdig Finds and Category Guides'
+description: 'Explore Orientdig Spreadsheet 2026 through organized Orientdig finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
+category: Orientdig Spreadsheet
 keywords:
-- USFans Spreadsheet 2026
-- USFans Spreadsheet
-- USFans finds
+- Orientdig Spreadsheet 2026
+- Orientdig Spreadsheet
+- Orientdig finds
 tags:
-- USFans Spreadsheet 2026
-- USFans Finds
+- Orientdig Spreadsheet 2026
+- Orientdig Finds
 - Fashion Discovery
 - Category Guides
 updated: '2026-08-14T00:00:00Z'
