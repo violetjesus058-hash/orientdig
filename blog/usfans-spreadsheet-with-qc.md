@@ -8,6 +8,16 @@ keywords: 'orientdig spreadsheet, orientdig spreadsheet 2026, orientdig spreadsh
 
 > **Official platform context:** OrientDig official pages show a product-link submission flow that can include seller-to-warehouse delivery, inspection, parcel consolidation and international shipping, with QC and Help Center resources. Logistics policy and transportability can change and should be confirmed at order time. This article is an editorial guide based on publicly visible platform information and community search intent; it is not an authenticity guarantee, investment advice, or a promise of stock, price, shipping time, or seller performance.
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## In This Article
 
 
@@ -27,15 +37,7 @@ The evolution of QC documentation has been remarkable. Early replica market tran
 
 For buyers new to using QC photos for purchase decisions, the Orientdig Spreadsheet with QC documentation serves as both a product database and an educational resource. The [Orientdig spreadsheet best](/blog/usfans-spreadsheet-best/) quality products include particularly detailed QC photos that demonstrate what premium quality looks like across different product categories. Learning to interpret these photos is a valuable skill that improves purchasing outcomes across all future transactions.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Comprehensive QC Photo Standards
 
@@ -63,7 +65,7 @@ For bags and accessories, verification checkpoints include material quality, har
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 
