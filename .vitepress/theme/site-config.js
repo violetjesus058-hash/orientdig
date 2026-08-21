@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Orientdig Spreadsheet 2026 - Orientdig Finds, Category Guides and Product Research',
     description: 'Explore Orientdig Spreadsheet 2026 through organized Orientdig finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['orientdig spreadsheet 2026', 'orientdig spreadsheet', 'orientdig finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-296B05BMXV',
   },
 
   // ---- Announcement Bar ----
